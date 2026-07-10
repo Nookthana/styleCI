@@ -1,0 +1,9 @@
+preset: laravel
+
+enabled:
+  - alpha_order
+  - ordered_imports
+
+finder:
+  not-name:
+    - '*.blade.php'
