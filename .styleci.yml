@@ -1,8 +1,5 @@
 preset: laravel
 
-enabled:
-  - ordered_imports
-
 finder:
   not-name:
     - '*.blade.php'
